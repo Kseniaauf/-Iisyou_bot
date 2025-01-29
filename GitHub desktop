@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "7740352062:AAHqMEgaJbuhtqApn7WJ5iZDU-Uv8_7PF8I"
+git branch -M main
+git remote add origin https://github.com/ТВОЙ_АККАУНТ/telegram-chatbot.git
+git push -u origin main
